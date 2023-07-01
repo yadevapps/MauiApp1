@@ -16,7 +16,7 @@
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Hello, Youcef!"
+                Text="Hello, YA!"
                 TextColor="DarkRed"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
